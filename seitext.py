@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Sidebar Configuration
-st.sidebar.image("p2.png", width=200)
+st.sidebar.image("p2.PNG", width=200)
 st.sidebar.image("p1.png", width=300)
 st.sidebar.title("Configuration Options")
 st.sidebar.subheader("1. Select AI Model")
